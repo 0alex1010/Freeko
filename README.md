@@ -21,4 +21,5 @@ needed
    14. Then go through the setup and set it as the default launcher
    15. After that then go back to the files app and contune
    16. After that is all done open the 'Navigation Bar' app and set that up
-   17. Youre done!
+   17. then open 'Controll screen rotation' and set it to landscape
+   18. Youre done!
